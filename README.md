@@ -84,7 +84,7 @@ end
 endmodule
 
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR FLIPFLOP**
 
 ![logic dig](https://github.com/user-attachments/assets/4e67a2e2-2846-485c-bb87-165e80c6bf6d)
 
