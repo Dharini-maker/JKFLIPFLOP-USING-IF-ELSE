@@ -95,5 +95,5 @@ endmodule
 
 **RESULT**
 
-Thus the implemention of JK flipflop using verilog and validating their functionality using their functional tables
+The program of JK flipflop using verilog and validating their functionality using their functional tables is implemented.
 
