@@ -55,33 +55,33 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 JK FLIPFLOP
 
-module jkff(j,k,clk,q,qbar);
+       module jkff(j,k,clk,q,qbar);
 
-input j,k,clk;
+      input j,k,clk;
 
-output reg q,qbar;
+      output reg q,qbar;
 
-initial 
+      initial 
 
-begin
+      begin
 
-q=1'b0;
+      q=1'b0;
 
-q=1'b1;
+      q=1'b1;
 
-end 
+      end 
 
-always @(posedge clk)
+     always @(posedge clk)
 
-begin 
+     begin 
 
-q<=(j&~q)|(~k&q);
+     q<=(j&~q)|(~k&q);
 
-qbar<=~q;
+     qbar<=~q;
 
-end
+     end
 
-endmodule
+    endmodule
 
 
 **RTL LOGIC FOR FLIPFLOP**
