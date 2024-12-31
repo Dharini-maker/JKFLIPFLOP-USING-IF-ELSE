@@ -88,7 +88,7 @@ JK FLIPFLOP
 
 ![logic dig](https://github.com/user-attachments/assets/4e67a2e2-2846-485c-bb87-165e80c6bf6d)
 
-**TIMING DIAGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOP**
 
 ![waveform](https://github.com/user-attachments/assets/67e8eb2c-9494-4b48-83f0-f8ed3ab83a74)
 
